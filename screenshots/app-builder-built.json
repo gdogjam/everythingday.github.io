@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Everything Day",
+      "hasCanvas": false,
+      "bodyTextLen": 3472,
+      "bodyTextHash": "8fc71071fd09ceb38e94a4e38c7c591f0b62fb7527c16edc63f11aa9009c0f69",
+      "bodyTextPrefix": "NO SCHEDULE · ALL AT ONCE · EVERYTHING DAY · NO SCHEDULE · ALL A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Everything Day",
+      "hasCanvas": false,
+      "bodyTextLen": 3472,
+      "bodyTextHash": "55951f55fc0108bd59ca26c023f3abec86d6039ccdad18bf3455339d1410748f",
+      "bodyTextPrefix": "NO SCHEDULE · ALL AT ONCE · EVERYTHING DAY · NO SCHEDULE · ALL A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
